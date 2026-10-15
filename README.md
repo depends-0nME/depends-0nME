@@ -10,10 +10,10 @@
 <div align="center">
 
 <a href="https://www.instagram.com/nwht.dign_/">
-<img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-S8500?style=for-the-badge&logo=instagram&logoColor=S55000" alt="Instagram">
 </a>
 <a href="https://www.facebook.com/luucae.dtnh/">
-<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=FFFFFF" alt="Facebook">
+<img src="https://img.shields.io/badge/Facebook-S55000?style=for-the-badge&logo=facebook&logoColor=S8500" alt="Facebook">
 </a>
 </div>
 
