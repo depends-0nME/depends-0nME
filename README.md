@@ -15,5 +15,6 @@
 <a href="https://www.facebook.com/luucae.dtnh/">
 <img src="https://img.shields.io/badge/Facebook-BEBEBE?style=for-the-badge&logo=facebook&logoColor=696969" alt="Facebook">
 </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=555551&width=435&lines=kaworu%2C+nobody+knows+what+I+see;everyone+thinks+im+crazy%2C;+cray+4+u+oh+boy.." alt="Typing SVG" /></a>
 </div>
 
