@@ -18,6 +18,6 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=555551&width=435&lines=kaworu%2C+nobody+knows+what+I+see;everyone+thinks+im+crazy%2C;+cray+4+u+oh+boy.." alt="Typing SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=555551&width=435&lines=I+probably+still+adore+you%2C;with+your+hands+around+my+neck.." alt="Typing SVG" >
 </a>                        
 </div>
